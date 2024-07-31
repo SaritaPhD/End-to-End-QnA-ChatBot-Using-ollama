@@ -94,3 +94,4 @@ This is a Q&A chatbot application built using Streamlit, Langchain, and Ollama. 
 ├── requirements.txt
 ├── .env
 └── README.md
+![alt text](<Screenshot 2024-07-31 at 1.20.21 PM.png>)
